@@ -1,0 +1,131 @@
+{
+  "categorias": [
+    {
+      "titulo": "Yoga",
+      "link": "/",
+      "cor": "#BDD684",
+      "link_extra": {
+        "text": "",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "Yoga para Aliviar Stress e ansiedade",
+          "url": "https://www.youtube.com/watch?v=KCkOCxPSlKE"
+        },
+        {
+          "titulo": "Yoga para Iniciantes: FORTALECENDO e ALONGANDO o CORPO TODO | Fernanda Yoga",
+          "url": "https://www.youtube.com/watch?v=QbxPUFl3cuc"
+        },
+        {
+          "titulo": "Programa de Yoga para Iniciante - 1° aula - #1",
+          "url": "https://www.youtube.com/watch?v=CRWPTHLBiKM"
+        },
+        {
+          "titulo": "15 Min. Full Body Stretch",
+          "url": "https://www.youtube.com/watch?v=g_tea8ZNk5A"
+        },
+        {
+          "titulo": "10 min Morning Yoga Full Body Stretch",
+          "url": "https://www.youtube.com/watch?v=4pKly2JojMw"
+        },
+        {
+          "titulo": "Yoga para Quem Nunca Praticou | 10Min - Pri Leite",
+          "url": "https://www.youtube.com/watch?v=OuCvUDVoX3M&t=5s"
+        },
+        {
+          "titulo": "Yoga para Flexibilidade ABERTURA DE QUADRIS e alongamento para PERNAS, COSTAS e PEITO",
+          "url": "https://www.youtube.com/watch?v=k5YQyjOw-iY"
+        },
+        {
+          "titulo": "BEGINNER FLEXIBILITY ROUTINE (Stretches for the Inflexible)",
+          "url": "https://www.youtube.com/watch?v=qULTwquOuT4"
+        }        
+      ]
+    },
+    {
+      "titulo": "Meditação",
+      "link": "/",
+      "cor": "#95AB63",
+      "link_extra": {
+        "text": "",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "MEDITAÇÃO PARA INICIANTES",
+          "url": "https://www.youtube.com/watch?v=zfy24tsbuI4"
+        },
+        {
+          "titulo": "Meditação para relaxar",
+          "url": "https://www.youtube.com/watch?v=5qHXtfSDoJM"
+        },
+        {
+          "titulo": "Meditação para ansiedade",
+          "url": "https://www.youtube.com/watch?v=Iub-qQmNSYU"
+        },
+        {
+          "titulo": "Meditação 5 minutos para transformar e acalmar seu dia",
+          "url": "https://i.ytimg.com/an_webp/oHjeGRqoS3E/mqdefault_6s.webp?du=3000&sqp=CKzC-_gF&rs=AOn4CLA7mdKQ7ZEZbmle3R2FC6EODFz3BA"
+        }, 
+        {
+          "titulo": "Meditação Guiada para Limpar a mente",
+          "url": "https://www.youtube.com/watch?v=jmKM8uw8u9Q"
+        }
+      ]
+    },
+    {
+      "titulo": "Sons da Natureza",
+      "link": "/",
+      "cor": "#95AB63",
+      "link_extra": {
+        "text": "",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "Som do Mar e Sons da Floresta",
+          "url": "https://www.youtube.com/watch?v=thV2k1Ws3x0"
+        },
+        {
+          "titulo": "Acalmar e relaxar a mente",
+          "url": "https://www.youtube.com/watch?v=pWjmpSD-ph0"
+        },
+        {
+          "titulo": "2 horas com sons da natureza",
+          "url": "https://www.youtube.com/watch?v=AHsj0pNXnwo"
+        },
+        {
+          "titulo": "Música Relaxante e Sons da Natureza - Acalmar, Relaxar, Dormir",
+          "url": "https://www.youtube.com/watch?v=Dho_VqAAJC8"
+        }, 
+        {
+          "titulo": "Música Relaxante Zen - Flauta, Sinos Tibetanos e Sons da Natureza - Meditar e Dormir",
+          "url": "https://www.youtube.com/watch?v=710Dg1jiTuY"
+        }
+      ]
+    },
+    {
+      "titulo": "Mindfulness",
+      "cor": "#95AB63",
+      "videos": [
+        {
+          "titulo": "/",
+          "url": "https://www.youtube.com/watch?v=hn3J-d44r94"
+        },
+        {
+          "titulo": "/",
+          "url": "https://www.youtube.com/watch?v=qB0Gms_GrtQ"
+        },
+        {
+          "titulo": "/",
+          "url": "https://www.youtube.com/watch?v=l6kLchMZM78"
+        },
+        {
+          "titulo": "/",
+          "url": "https://www.youtube.com/watch?v=6_F3JeO6ImU"
+        }
+      ]
+    }
+  ]
+}
